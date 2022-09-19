@@ -5,7 +5,6 @@
 - <b>Backend Engineer Projects</b>
   - [Chatbot](https://github.com/JonasZerbib/chatbot)
   - [Tiny Url](https://github.com/JonasZerbib/jonas-tinyurl)
-- <b>Computer Vision Projects</b>
   - [Video Game Store](https://github.com/JonasZerbib/VideoGameStore) 
   - [Web calculator](https://github.com/JonasZerbib/web-calculator)
   - [Experiments on Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) 
