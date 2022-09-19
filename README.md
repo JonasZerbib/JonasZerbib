@@ -3,7 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Backend Engineer Projects</b>
-  - [Tiny url (code)](https://github.com/JonasZerbib/tiny-url), [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html), Spring boot, Redis, Cassandra, MongoDb, Docker, Java
+  - [Tiny url](https://github.com/JonasZerbib/tiny-url) | [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html):
+      Spring boot, Redis, Cassandra, MongoDb, Docker, Java
   - [Chatbot (code)](https://github.com/JonasZerbib/chatbot), [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7), Spring boot, Dialog Flow, Docker, Regex scraping, Java
   - [Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore), User based collaborative filtering algo, Java, SQL
   - [Mini google (code)](https://github.com/handson-academy/jonas-searchengine), Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
