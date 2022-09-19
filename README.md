@@ -5,7 +5,7 @@
 - <b>Backend Engineer Projects</b>
   - [Tiny url](https://github.com/JonasZerbib/tiny-url)
   <ul>
-    <li>[Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)</li>
+    <li><a href="https://jz-tinyurl.herokuapp.com/swagger-ui.html">Application Demo</a></li>
     <li>Spring boot, Redis, Cassandra, MongoDb, Docker, Java</li>
     <li>Cerises</li>
   </ul>
