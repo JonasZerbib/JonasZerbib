@@ -3,21 +3,19 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b><a href="https://github.com/JonasZerbib/tiny-url">Tiny url</a></b>
-  - <a href="https://github.com/JonasZerbib/tiny-url">Tiny url</a></li>
-  - <a href="https://jz-tinyurl.herokuapp.com/swagger-ui.html">Application Demo</a></li>
+  - <a href="https://jz-tinyurl.herokuapp.com/swagger-ui.html">Application Demo</a>
   - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
-- <b><a href="https://github.com/JonasZerbib/chatbot">Chatbot (code)</a></b>
+- <b><a href="https://github.com/JonasZerbib/chatbot">Chatbot</a></b>
   - <a href="https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7">Application Demo</a>
   - Spring boot, Dialog Flow, Docker, Regex scraping, Java
-  - [Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)
+- <b><a href="https://github.com/JonasZerbib/VideoGameStore">Video Game Store</a></b>
   - User based collaborative filtering algo, Java, SQL
-  - [Mini google (code)](https://github.com/handson-academy/jonas-searchengine)
+- <b><a href="https://github.com/handson-academy/jonas-searchengine">Mini google</a></b>
   - Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
-  - [Web calculator (code)](https://github.com/JonasZerbib/web-calculator)
-  - [Application Demo](https://jzexpression.herokuapp.com/swagger-ui.html#)
+- <b><a href="https://github.com/JonasZerbib/chatbot](https://github.com/JonasZerbib/web-calculator">Web calculator</a></b>
+  - <a href="https://jzexpression.herokuapp.com/swagger-ui.html#">Application Demo</a>
   - Spring boot, Java
-- <b>Data Science and FullStack Projects</b>
-  - [Data Science Interface (code)](https://github.com/JonasZerbib/ProjectLab)
+- <b><a href="https://github.com/JonasZerbib/ProjectLab">Data Science and FullStack Projects</a><b>
   - Django framework, HTML, CSS, Numpy, Pandas, Python
  
   <br/>
