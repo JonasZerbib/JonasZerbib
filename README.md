@@ -3,10 +3,10 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Backend Engineer Projects</b>
-  - <b>[Tiny url](https://github.com/JonasZerbib/tiny-url)</b>
-  - [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)
-  - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
-  - <b>[Chatbot (code)](https://github.com/JonasZerbib/chatbot)</b>
+  - [Tiny url](https://github.com/JonasZerbib/tiny-url)
+  - <li>[Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)</li>
+  - <li>Spring boot, Redis, Cassandra, MongoDb, Docker, Java</li>
+  - [Chatbot (code)](https://github.com/JonasZerbib/chatbot)
   - [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
   - Spring boot, Dialog Flow, Docker, Regex scraping, Java
   - <b>[Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)</b>
