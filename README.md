@@ -7,8 +7,5 @@
   - [Tiny Url](https://github.com/JonasZerbib/jonas-tinyurl)
   - [Video Game Store](https://github.com/JonasZerbib/VideoGameStore) 
   - [Web calculator](https://github.com/JonasZerbib/web-calculator)
-  - [Experiments on Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) 
-  - [Facial Keypoints Detection](https://github.com/ssalabi/facial-keypoint-detection-project) 
-  - [Image Captioning](https://github.com/ssalabi/image-captioning) 
 - <b>Data Science and FullStack Projects</b>
   - [Data Science Interface](https://github.com/JonasZerbib/ProjectLab) 
