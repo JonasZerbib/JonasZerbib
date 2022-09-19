@@ -4,8 +4,11 @@
 
 - <b>Backend Engineer Projects</b>
   - [Tiny url](https://github.com/JonasZerbib/tiny-url)
-  - [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)
-  - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
+  <ul>
+    <li>[Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)</li>
+    <li>Spring boot, Redis, Cassandra, MongoDb, Docker, Java</li>
+    <li>Cerises</li>
+  </ul>
   - [Chatbot (code)](https://github.com/JonasZerbib/chatbot)
   - [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
   - Spring boot, Dialog Flow, Docker, Regex scraping, Java
