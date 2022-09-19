@@ -3,23 +3,23 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <h3>Backend Engineer Projects</h3>
-  . <b>[Tiny url](https://github.com/JonasZerbib/tiny-url)</b>
-  . [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)
-  . Spring boot, Redis, Cassandra, MongoDb, Docker, Java
-  . <b>[Chatbot (code)](https://github.com/JonasZerbib/chatbot)</b>
-  . [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
-  . Spring boot, Dialog Flow, Docker, Regex scraping, Java
-  . <b>[Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)</b>
-  . User based collaborative filtering algo, Java, SQL
-  . <b>[Mini google (code)](https://github.com/handson-academy/jonas-searchengine)</b> 
-  . Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
-  . <b>[Web calculator (code)](https://github.com/JonasZerbib/web-calculator)</b>
-  . [Application Demo](https://jzexpression.herokuapp.com/swagger-ui.html#)
-  . Spring boot, Java
+  - <b>[Tiny url](https://github.com/JonasZerbib/tiny-url)</b>
+  - [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)
+  - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
+  - <b>[Chatbot (code)](https://github.com/JonasZerbib/chatbot)</b>
+  - [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
+  - Spring boot, Dialog Flow, Docker, Regex scraping, Java
+  - <b>[Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)</b>
+  - User based collaborative filtering algo, Java, SQL
+  - <b>[Mini google (code)](https://github.com/handson-academy/jonas-searchengine)</b> 
+  - Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
+  - <b>[Web calculator (code)](https://github.com/JonasZerbib/web-calculator)</b>
+  - [Application Demo](https://jzexpression.herokuapp.com/swagger-ui.html#)
+  - Spring boot, Java
 - <b>Data Science and FullStack Projects</b>
-  . <b>[Data Science Interface (code)](https://github.com/JonasZerbib/ProjectLab)</b>
-  . Django framework, HTML, CSS, Numpy, Pandas, Python
-  
+  - <b>[Data Science Interface (code)](https://github.com/JonasZerbib/ProjectLab)</b>
+  - Django framework, HTML, CSS, Numpy, Pandas, Python
+ 
   <br/>
   
  <h2>👨‍💻 Languages & Tools:</h2>
