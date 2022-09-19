@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Backend Engineer Projects</b>
-  - [Tiny url](https://github.com/JonasZerbib/tiny-url)
+- <b><a href="https://github.com/JonasZerbib/tiny-url">Tiny url</a></b>
+  - <a href="https://github.com/JonasZerbib/tiny-url">Tiny url</a></li>
   - <a href="https://jz-tinyurl.herokuapp.com/swagger-ui.html">Application Demo</a></li>
   - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
-  - Cerises
-  - [Chatbot (code)](https://github.com/JonasZerbib/chatbot)
-  - [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
+- <b><a href="https://github.com/JonasZerbib/chatbot">Chatbot (code)</a></b>
+  - <a href="https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7">Application Demo</a>
   - Spring boot, Dialog Flow, Docker, Regex scraping, Java
   - [Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)
   - User based collaborative filtering algo, Java, SQL
