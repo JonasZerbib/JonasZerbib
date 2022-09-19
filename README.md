@@ -6,6 +6,7 @@
   - [Chatbot](https://github.com/JonasZerbib/chatbot)
   - [Tiny Url](https://github.com/JonasZerbib/jonas-tinyurl)
   - [Video Game Store](https://github.com/JonasZerbib/VideoGameStore) 
+  - [Mini google](https://github.com/handson-academy/jonas-searchengine)
   - [Web calculator](https://github.com/JonasZerbib/web-calculator)
 - <b>Data Science and FullStack Projects</b>
   - [Data Science Interface](https://github.com/JonasZerbib/ProjectLab) 
