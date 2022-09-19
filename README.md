@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Jonas! <br/><a href="https://www.linkedin.com/in/jonas-zerbib-/">Bsc Computer Engineering</a> & <a href="https://github.com/JonasZerbib">Backend/FullStack/Software engineer </a>
 
-<!--
-**JonasZerbib/JonasZerbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Backend Engineer Projects</b>
+  - [Chatbot](https://github.com/JonasZerbib/chatbot)
+  - [Tiny Url](https://github.com/JonasZerbib/jonas-tinyurl)
+- <b>Computer Vision Projects</b>
+  - [Video Game Store](https://github.com/JonasZerbib/VideoGameStore) 
+  - [Web calculator](https://github.com/JonasZerbib/web-calculator)
+  - [Experiments on Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) 
+  - [Facial Keypoints Detection](https://github.com/ssalabi/facial-keypoint-detection-project) 
+  - [Image Captioning](https://github.com/ssalabi/image-captioning) 
+- <b>Data Science and FullStack Projects</b>
+  - [Data Science Interface](https://github.com/JonasZerbib/ProjectLab) 
