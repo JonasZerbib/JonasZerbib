@@ -4,20 +4,20 @@
 
 - <b>Backend Engineer Projects</b>
   - [Tiny url](https://github.com/JonasZerbib/tiny-url)
-  - <li>[Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)</li>
-  - <li>Spring boot, Redis, Cassandra, MongoDb, Docker, Java</li>
+  - [Application Demo](https://jz-tinyurl.herokuapp.com/swagger-ui.html)
+  - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
   - [Chatbot (code)](https://github.com/JonasZerbib/chatbot)
   - [Application Demo](https://console.dialogflow.com/api-client/demo/embedded/4373de5f-5dff-46d0-af25-6bfabee4c4c7)
   - Spring boot, Dialog Flow, Docker, Regex scraping, Java
-  - <b>[Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)</b>
+  - [Video Game Store (code)](https://github.com/JonasZerbib/VideoGameStore)
   - User based collaborative filtering algo, Java, SQL
-  - <b>[Mini google (code)](https://github.com/handson-academy/jonas-searchengine)</b>
+  - [Mini google (code)](https://github.com/handson-academy/jonas-searchengine)
   - Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
-  - <b>[Web calculator (code)](https://github.com/JonasZerbib/web-calculator)</b>
+  - [Web calculator (code)](https://github.com/JonasZerbib/web-calculator)
   - [Application Demo](https://jzexpression.herokuapp.com/swagger-ui.html#)
   - Spring boot, Java
 - <b>Data Science and FullStack Projects</b>
-  - <b>[Data Science Interface (code)](https://github.com/JonasZerbib/ProjectLab)</b>
+  - [Data Science Interface (code)](https://github.com/JonasZerbib/ProjectLab)
   - Django framework, HTML, CSS, Numpy, Pandas, Python
  
   <br/>
