@@ -12,7 +12,7 @@
   - User based collaborative filtering algo, Java, SQL
 - <b><a href="https://github.com/handson-academy/jonas-searchengine">Mini google</a></b>
   - Spring boot, Kafka, Redis, Elasticsearch, Docker, Java
-- <b><a href="https://github.com/JonasZerbib/chatbot](https://github.com/JonasZerbib/web-calculator">Web calculator</a></b>
+- <b><a href="https://github.com/JonasZerbib/web-calculator">Web calculator</a></b>
   - <a href="https://jzexpression.herokuapp.com/swagger-ui.html#">Application Demo</a>
   - Spring boot, Java
 - <b><a href="https://github.com/JonasZerbib/ProjectLab">Data Science and FullStack Projects</a><b>
