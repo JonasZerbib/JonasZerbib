@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jonas! <br/><a href="https://www.linkedin.com/in/jonas-zerbib-/">Bsc Computer Engineering</a> & <a href="https://github.com/JonasZerbib">Backend/FullStack/Software engineer </a>
 
 <h2>👨‍💻 My Projects:</h2>
-
+- <b><a href="https://github.com/JonasZerbib/ConversationalAgent">AI Conversational Travel Agent</a></b>
+  - Python, LangChain, LangGraph, Ollama, LLM, Flask
 - <b><a href="https://github.com/JonasZerbib/tiny-url">Tiny url</a></b>
   - <a href="https://jz-tinyurl.herokuapp.com/swagger-ui.html">Application Demo</a>
   - Spring boot, Redis, Cassandra, MongoDb, Docker, Java
