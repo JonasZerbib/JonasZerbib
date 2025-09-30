@@ -38,7 +38,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Doker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
 
 
 <br />
